@@ -1,1 +1,1 @@
-# python_training_brukh
+# Repository for Python Training
